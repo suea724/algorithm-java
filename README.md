@@ -48,7 +48,7 @@
 |[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)|[전화번호 목록.java](https://github.com/suea724/algorithm-java/blob/master/programmers/level2/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.java)|Level 2|
 |[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|[피보나치 수.java](https://github.com/suea724/algorithm-java/blob/master/programmers/level2/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.java)|Level 2|
 |[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|[최솟값 만들기.java](https://github.com/suea724/algorithm-java/blob/master/programmers/level2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java)|Level 2|
-
+|[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|[최댓값과 최솟값](https://github.com/suea724/algorithm-java/blob/master/programmers/level2/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.java)|Level 2|
 
 
 <br>
