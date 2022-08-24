@@ -62,3 +62,4 @@
 |[Z](https://www.acmicpc.net/problem/1074)|[1074_Z.java](https://github.com/suea724/algorithm-java/blob/master/BOJ/1074_Z.java)|재귀|
 |[하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)|[11729_하노이.java](https://github.com/suea724/algorithm-java/blob/master/BOJ/11729_%ED%95%98%EB%85%B8%EC%9D%B4.java)|재귀|
 |[2xn 타일링](https://www.acmicpc.net/problem/11726)|[11726_2×n 타일링.java ](https://github.com/suea724/algorithm-java/blob/master/BOJ/11726_2%C3%97n%20%ED%83%80%EC%9D%BC%EB%A7%81.java)|재귀|
+|[숫자의 합](https://www.acmicpc.net/problem/11720)|[11720_숫자의 합.java](https://github.com/suea724/algorithm-java/blob/master/BOJ/11720_%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%95%A9.java)|문자열|
