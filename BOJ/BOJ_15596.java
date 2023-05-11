@@ -1,4 +1,4 @@
-public class Test {
+public class BOJ_15596 {
     long sum(int[] a) {
         long ans = 0;
         

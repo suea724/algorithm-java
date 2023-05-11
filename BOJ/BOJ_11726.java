@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class BOJ_11726 {
     
     static int[] dp; // Memoization할 배열을 전역변수로 선언
         

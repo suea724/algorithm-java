@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class BOJ_11729 {
     
     public static StringBuilder sb = new StringBuilder();
     

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class BOJ_1074 {
 	
 	public static int count = 0;
 	

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class BOJ_11720 {
     public void main(String[] args) {
         
         // 자릿수와 수 입력받기
